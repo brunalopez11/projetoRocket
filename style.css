@@ -6,12 +6,12 @@
 
 :root {
   --text-color: white;
-  --bg-url: url(assets/assets/bg-mobile.jpg);
+  --bg-url: url(assets/assets/bg-desktop-light.jpg);
 }
 
 .ligth {
   --text-color: black;
-  -bg-url: url(assets/assets/bg-mobile-light.jpg);
+  -bg-url: url(assets/assets/bg-mobile.jpg);
 }
 
 body {
